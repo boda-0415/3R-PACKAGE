@@ -1,6 +1,6 @@
 import pytest
 
-from 3R-PACKAGE.3R-PACKAGE import hello_world
+from r3_package.r3_package import hello_world
 
 
 @pytest.mark.parametrize(
